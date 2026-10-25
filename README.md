@@ -39,3 +39,14 @@ An interactive, high-fidelity **Merchant Financial Settlement Console** that giv
 ## 💻 Local Development
 
 ```bash
+# Clone the repository
+git clone https://github.com/abhayvinod-web/merchant-instant-settlement.git
+
+# Navigate into project directory
+cd merchant-instant-settlement
+
+# Install dependencies
+npm install
+
+# Start local development server
+npm run dev
